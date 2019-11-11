@@ -1,9 +1,9 @@
-## Loan-Fraud
+# Loan-Fraud
 # Building models to predict companies that are likely commititng fraud so as to audit them 
 
 # Project1f
 
-# Data Prep:
+## Data Prep:
 
 *Loaded the 2 data files Audit_Risk.csv(776 x 27) and trial.csv(776 x 18)
 
@@ -25,7 +25,7 @@
 
 *pairplots and boxplots are created
 
-# Regression models for Audit_Risk:
+## Regression models for Audit_Risk:
 
 *Created models using scikit-learn and grid search for hypertuning
 
@@ -39,7 +39,7 @@
 
 *Polynomial with degree 2 was the best model with test scores of 0.9924
 
-# Classification models for Risk_x and Risk_y:
+## Classification models for Risk_x and Risk_y:
 
 *Created models using scikit-learn and grid search for hypertuning
 
