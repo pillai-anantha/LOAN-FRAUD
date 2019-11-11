@@ -1,0 +1,8 @@
+,Best_Parameters,Model,Test_score,Train_score
+0,{'n_neighbors': 1},KNN,0.982015503875969,0.9968866387337058
+1,"{'C': 10, 'penalty': 'l1'}",Logistic Regression,0.9953488372093023,0.9984553866585827
+2,"{'C': 250, 'degree': 3}",SVC-polynomial,0.9834834834834835,1.0
+3,"{'C': 10, 'gamma': 0.1}",SVC rbf,0.9945945945945945,1.0
+4,{'C': 10},SVC linear,0.9888888888888889,0.9968866387337058
+5,{'C': 250},Linear SVC,0.9834834834834835,0.9936744406018149
+6,[],Decision Tree,1.0,1.0
