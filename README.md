@@ -1,5 +1,5 @@
 # Loan-Fraud
-# Building models to predict companies that are likely commititng fraud so as to audit them 
+# Building models to predict companies that are likely commititng fraud so as to audit them (Python)
 
 # Project1f
 
